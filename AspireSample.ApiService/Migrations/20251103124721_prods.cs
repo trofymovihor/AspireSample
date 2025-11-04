@@ -6,7 +6,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace AspireSample.ApiService.Migrations
 {
     /// <inheritdoc />
-    public partial class prods : Migration
+    public partial class Prods : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

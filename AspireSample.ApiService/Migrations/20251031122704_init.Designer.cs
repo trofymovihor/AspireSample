@@ -13,7 +13,7 @@ namespace AspireSample.ApiService.Migrations
 {
     [DbContext(typeof(AppDbContext))]
     [Migration("20251031122704_init")]
-    partial class init
+    partial class Initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
